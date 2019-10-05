@@ -1,0 +1,3 @@
+# Accident Detection System using Image Segmentation and Machine Learning
+India is characterized by lack of road safety due to traffic violations and rash driving with the metrolpolitan cities such as Mumbai, Chennai and Delhi contributing to huge economic losses and loss of life due to road accidents. Most of the solutions offered for accident detection are not feasible due to heavy dependency on sensor networks for mitigation system that suffers from seasonal variability as limitation since sensors do not work properly in extreme weather conditions and thus feasibility of the system is determined by the frequency of accidents which occur in a given region that can be used to highlight the accident prone zones across India.
+### Work under Process
